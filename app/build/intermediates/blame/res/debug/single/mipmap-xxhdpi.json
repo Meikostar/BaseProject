@@ -1,14 +1,14 @@
 [
     {
-        "merged": "F:\\GitWorkSapce\\Hand_care\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\lp_img_delete.png",
-        "source": "F:\\GitWorkSapce\\Hand_care\\app\\src\\main\\res\\mipmap-xxhdpi\\lp_img_delete.png"
+        "merged": "F:\\BaseProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\arrow_left.png",
+        "source": "F:\\BaseProject\\app\\src\\main\\res\\mipmap-xxhdpi\\arrow_left.png"
     },
     {
-        "merged": "F:\\GitWorkSapce\\Hand_care\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\network_error.png",
-        "source": "F:\\GitWorkSapce\\Hand_care\\app\\src\\main\\res\\mipmap-xxhdpi\\network_error.png"
+        "merged": "F:\\BaseProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\network_error.png",
+        "source": "F:\\BaseProject\\app\\src\\main\\res\\mipmap-xxhdpi\\network_error.png"
     },
     {
-        "merged": "F:\\GitWorkSapce\\Hand_care\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\arrow_left.png",
-        "source": "F:\\GitWorkSapce\\Hand_care\\app\\src\\main\\res\\mipmap-xxhdpi\\arrow_left.png"
+        "merged": "F:\\BaseProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\lp_img_delete.png",
+        "source": "F:\\BaseProject\\app\\src\\main\\res\\mipmap-xxhdpi\\lp_img_delete.png"
     }
 ]
